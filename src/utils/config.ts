@@ -200,7 +200,7 @@ const templateConfig: TemplateConfig = {
       ],
     },
     header: {
-      headline: "Oasis",
+      headline: "Snore",
       subtitle:
         "Sleep better, reduce stress, lower anxiety, and refocus your mind. Discover a rich collection of sleep stories, guided meditations, breathing exercises, and more.",
       screenshots: [
