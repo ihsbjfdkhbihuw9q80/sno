@@ -46,7 +46,7 @@ function Navbar() {
         <motion.div
           style={{ opacity: isMobileNavVisible ? 1 : opacity }}
           className={clsx(
-            "will-change-[border-radius,opacity] transition-all z-[-1] rounded-full absolute left-0 right-0 top-0 bottom-0 bg-base-100 shadow-xl",
+            "will-change-[border-radius,opacity] transition-all z-[-1] rounded-full absolute left-0 right-0 top-0 bottom-0 bg-base-300 shadow-xl",
             {
               "rounded-none": isMobileNavVisible,
             }
