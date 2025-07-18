@@ -43,8 +43,8 @@ html {
 }
 [data-theme="dark"] .backgroundGrid {
   background-image: linear-gradient(
-      rgba(7, 12, 19, 1) 1px,
+      rgba(7, 12, 19, 1) 100px,
       transparent 1px
     ),
-    linear-gradient(to right, rgba(7, 12, 19, 1) 1px, transparent 1px);
+    linear-gradient(to right, rgba(7, 12, 19, 1) 100px, transparent 1px);
 }
